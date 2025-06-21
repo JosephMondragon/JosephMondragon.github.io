@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Joseph Mondragon"
+title                    : "Joseph's Homepage"
 title_separator          : "-"
 name                     : &name "Joseph Mondragon"
 description              : &description "PhD Student at UCL"
@@ -22,7 +22,7 @@ repository               : "JosephMondragon/JosephMondragon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Stanford Pro Pic 5 Edit.png"
+  avatar           : "Stanford Pro Pic 600x400.png"
   name             : "Joseph Mondragon"
   pronouns         : # example: "she/her"  
   bio              : "I love to do what excites!"
